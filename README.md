@@ -24,13 +24,13 @@ In the project 3-layer architecture were implemented:
 The project was created with using the next technologies:
 
 - Java 11
-- 
 - Apache Tomcat - version 9.0.60;
 - Apache Maven;
 - MySQL;
 - JDBC;
 - Javax Servlet;
 - JSP;
+- JSTL;
 - HTML, CSS;
 - Checkstyle plugin.
 
